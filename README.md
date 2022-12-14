@@ -1,10 +1,21 @@
 # Startercode
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+Just after the title,
+Loan qualifier project, inputs users income, creditscore, debt,homevalue, and loan size and outputs customized list of qualified loans
+
+contribution: worked on the save function, which enables user to save list of qualified loans, when promted.
+
+ introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
 ---
 
 ## Technologies
+
+python fire
+python questionary
+csv
+pathlib
+sys
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
