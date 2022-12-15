@@ -1,13 +1,8 @@
-# Startercode
 
-Just after the title,
+# loan qualifier
 Loan qualifier project, inputs users income, creditscore, debt,homevalue, and loan size and outputs customized list of qualified loans
 
 contribution: worked on the save function, which enables user to save list of qualified loans, when promted.
-
- introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
----
 
 ## Technologies
 
@@ -17,28 +12,28 @@ csv
 pathlib
 sys
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-
 ---
 
 ## Installation Guide
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+open terminal run program using the install tech.
 
 ---
 
 ## Usage
+Step1:
+![Asks for a path to "daily_rate_sheet.csv" file which is stored in data folder](file:///C:/Users/wakka/Desktop/github_upload/Challenge/STEP1.jpg)
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+Step2: ![Give data according to client situation](file:///C:/Users/wakka/Desktop/github_upload/Challenge/STEP2.jpg)
+
+Step3: ![If needed save file to specific folder](file:///C:/Users/wakka/Desktop/github_upload/ChallengeSTEP3.jpg)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+MxP05
 
 ---
 
 ## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Use when applying for loans
