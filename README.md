@@ -20,12 +20,14 @@ open terminal run program using the install tech.
 ---
 
 ## Usage
-Step1:
-![Asks for a path to "daily_rate_sheet.csv" file which is stored in data folder](file:///C:/Users/wakka/Desktop/github_upload/Challenge/STEP1.jpg)
+Step1:**Asks for a path to "daily_rate_sheet.csv" file which is stored in data folder**
+![Asks for a path to "daily_rate_sheet.csv" file which is stored in data folder](https://raw.githubusercontent.com/MxP05/Challenge-2-Startercode/main/pictures/STEP%201.jpg)
 
-Step2: ![Give data according to client situation](file:///C:/Users/wakka/Desktop/github_upload/Challenge/STEP2.jpg)
+Step2: **Give data according to client situation**
+![Give data according to client situation](https://github.com/MxP05/Challenge-2-Startercode/blob/main/pictures/STEP2.jpg?raw=true)
 
-Step3: ![If needed save file to specific folder](file:///C:/Users/wakka/Desktop/github_upload/ChallengeSTEP3.jpg)
+Step3: **If needed save file to specific folder**
+ ![If needed save file to specific folder](https://github.com/MxP05/Challenge-2-Startercode/blob/main/pictures/STEP3.jpg?raw=true)
 
 ---
 
